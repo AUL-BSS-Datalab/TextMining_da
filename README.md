@@ -37,7 +37,7 @@ library(ggwordcloud)
 library(tidygraph)
 
 # Her fortæller vi R, at vi ønsker at åbne applikationen ShinyTextMining, der ligger på Github under AUL-Arts-Digital-Lab 
-runGitHub("TextMining_da", "AUL-BSS-Datalab") 
+runGitHub("ShinyTextMining", "AUL-Arts-Digital-Lab")
 ```
 4. Kør koden ved at trykke shift, ctrl og enter
 5. Du kan nu tilgå text mining applikationen
@@ -70,7 +70,7 @@ library(ggwordcloud)
 library(tidygraph)
 
 # Her fortæller vi R, at vi ønsker at åbne applikationen ShinyTextMining, der ligger på Github under AUL-Arts-Digital-Lab 
-runGitHub("TextMining_da", "AUL-BSS-Datalab") 
+runGitHub("ShinyTextMining", "AUL-Arts-Digital-Lab")
 ```
 3. Kør koden ved at trykke shift, ctrl og enter
 4. Du kan nu tilgå text mining applikationen
